@@ -1,0 +1,24 @@
+.estado-em-analise {
+    background-color: rgb(255, 226, 99);
+    color: black;
+}
+.estado-concluido {
+    background-color: rgb(107, 163, 34);
+    color: white;
+}
+.estado-cancelado {
+    background-color: rgb(204, 89, 81);
+    color: white;
+}
+.estado-em-reparacao {
+    background-color: rgb(255, 188, 63);
+    color: black;
+}
+.estado-box {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+    border-radius: 50%;
+}
+
